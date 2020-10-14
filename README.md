@@ -1,1 +1,1 @@
-#LightDark
+LightDark
